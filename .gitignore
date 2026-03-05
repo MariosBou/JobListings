@@ -1,0 +1,22 @@
+### IntelliJ ###
+.idea/
+*.iml
+out/
+
+### Build ###
+*.class
+
+### Logs ###
+*.log
+
+### Generated files ###
+output.csv
+
+### Libraries ###
+mysql-connector-j-9.1.0/
+
+### Diagram source ###
+Diagrams/*.drawio
+
+### OS ###
+.DS_Store
