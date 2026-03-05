@@ -174,8 +174,7 @@ ECE318_PROJECT
 │
 ├── Diagrams
 │   ├── ClassDiagram.png
-│   ├── UseCaseDiagram.png
-│   └── UML.pdf
+│   └── UseCaseDiagram.png
 │
 ├── src
 │   └── (Java source code)
